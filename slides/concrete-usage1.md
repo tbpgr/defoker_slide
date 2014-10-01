@@ -9,7 +9,7 @@ $ ls -F | grep /
 * 翌日の作業フォルダを名前付きで作成
 
 ~~~bash
-$ defoker tommorow -a hoge
+$ defoker tomorrow -a hoge
 $ ls -F | grep /
 20141003_hoge/
 ~~~
